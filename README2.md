@@ -1,4 +1,4 @@
-Tes premières commandes Git :
+ !Tes premières commandes Git :
 
 init : initialise le répertoire où elle est exécutée comme un Projet Git. Cela crée un répertoire ".git" contenant tout le nécessaire au bon fonctionnement de Git pour suivre les modifications à l'intérieur du répertoire.
 
